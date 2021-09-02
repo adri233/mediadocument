@@ -1,0 +1,59 @@
+.background-index{
+    background-color: cornflowerblue;
+}
+.section-body{
+    max-width: 37.5rem;
+}
+
+.banner-index{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+banner-index_boton{
+    width: 10rem;
+    height: 3rem;
+    text-decoration: none;
+    background-color: var(--rojo);
+    color:#fff;
+    font-size:var(--parrafo);
+    
+    
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.tags{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.tags_item{
+    width: 30rem;
+    height: 25rem;
+    background-color: darkgray;
+    margin-top: 2.5rem;
+    
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+tags_item img´{
+    width: 28rem;
+    margin-top:1rem;
+}
+
+tags_item p
+
+
+
+
+
+
+
+
+
+
